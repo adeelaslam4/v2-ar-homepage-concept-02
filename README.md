@@ -52,3 +52,10 @@ Next.js 15 · React 19 · TypeScript · Tailwind CSS 4 · GSAP · sharp · Geist
 ```bash
 npm install && echo "ACCESS_KEY=your-key" > .env.local && npm run dev
 ```
+
+## Repositories & deployment
+
+- **Canonical:** `Penaxis/v2-ar-ascendancy-homepage-concept` (this repo)
+- **Vercel mirror:** `adeelaslam4/v2-ar-homepage-concept-02` — Vercel Hobby cannot link a private
+  organisation-owned repository, so the Vercel project `v2-ar-ascendancy-homepage-concept` (penaxis team)
+  deploys from this mirror. Push every change to both: `git push origin main && git push mirror main`.
